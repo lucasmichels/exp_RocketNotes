@@ -9,8 +9,6 @@ class TagsController {
 
             return response.json(tags);
     }
-
-
 }
 
 module.exports = TagsController;
